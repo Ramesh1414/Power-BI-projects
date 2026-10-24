@@ -31,7 +31,7 @@ Total Expenses = SUM('public expenses'[total_amount])
 ```
 Plus 14 more KPIs: Approval Rate %, Policy Compliance %, Missing Receipts %, Total Reimbursed, Avg Days to Reimburse, Rejection Rate %, and others.
 
-## [Report pages]([url](https://github.com/Ramesh1414/Power-BI-projects/blob/main/expense_reimbursement_SQL.zip))
+## [Report pages](https://github.com/Ramesh1414/Power-BI-projects/blob/main/expense_reimbursement_SQL.zip)
 - **Expenses:** spend, approvals, compliance
 - **Reimbursements:** payouts, rejections, payout speed
 
